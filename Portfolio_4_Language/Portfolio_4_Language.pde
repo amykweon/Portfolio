@@ -6,7 +6,7 @@ PFont fontc;
 PFont fontk;
 
 void setup(){
-  jpg = loadImage ("/Users/amykweon/Documents/Processing/Portfolio_3_Language/Language Collage copy.png");
+  jpg = loadImage ("Language Collage copy.jpg");
   //fontk= loadFont("AppleSDGothicNeo-Light-48.vlw");
   fontk = createFont("AppleSDGothicNeo-Light-48.vlw", 32);
   fontc= createFont("PingFangSC-Light-48.vlw",32);
