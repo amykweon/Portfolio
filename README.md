@@ -1,4 +1,5 @@
 # Portfolio
+![rumorvisual copy-1](https://user-images.githubusercontent.com/43464923/46253294-bbdf5a80-c4b2-11e8-8739-0048bfe90439.png)
 
 # Portfolio 1: Spread of Noise
 This piece attempts to capture visually how rumors spread on the internet. It looks similar to how cells propagate, or bubbles grow and disappear. 
